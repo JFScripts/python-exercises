@@ -76,4 +76,4 @@ In this repository I will put my exercises from "CS50's Introduction to Programm
   In `grocery.py`, prompt the user for grocery items until Control‑D. Then print each item in uppercase, sorted alphabetically, prefixed by the count of how many times it was entered (case-insensitive).
 
 * **Outdated**
-  In `outdated.py`, prompt the user for a date in `M/D/YYYY` or `Month D, YYYY` format (Month as full name). If valid (assuming all months ≤ 31 days), output it in ISO 8601 `YYYY-MM-DD` format; otherwise prompt again
+  In `outdated.py`, prompt the user for a date in `M/D/YYYY` or `Month D, YYYY` format (Month as full name). If valid (assuming all months ≤ 31 days), output it in ISO 8601 `YYYY-MM-DD` format; otherwise prompt again.
